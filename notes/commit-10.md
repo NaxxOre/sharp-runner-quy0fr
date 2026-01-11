@@ -1,0 +1,1 @@
+- Commit 10: feat: add small helper
